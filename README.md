@@ -1,4 +1,4 @@
-Emergency Ambulance Dispatch System — Relational Database
+## Emergency Ambulance Dispatch System — Relational Database
 
 **Université de Montréal | IFT2935 - Bases de données**
 
