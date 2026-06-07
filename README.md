@@ -1,4 +1,4 @@
-# 🚑 Emergency Ambulance Dispatch System — Relational Database
+Emergency Ambulance Dispatch System — Relational Database
 
 **Université de Montréal | IFT2935 - Bases de données**
 
@@ -6,7 +6,7 @@ A relational database modeling a real-time ambulance dispatch system for the cit
 
 ---
 
-## 📐 Database Schema
+##  Database Schema
 
 The system is composed of **7 core entities** and **6 relationship tables**:
 
@@ -34,7 +34,7 @@ AppelUrgence ──Recoit──> PointDepart ──Clinique──> Hopital
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ambulance-db/
@@ -59,7 +59,7 @@ ambulance-db/
 
 ---
 
-## 🔍 Sample Queries
+## Sample Queries
 
 **Available ambulances and their location:**
 ```sql
@@ -85,7 +85,7 @@ JOIN Ambulanciers ambr ON c.id_ambulancier = ambr.id_ambulancier;
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - **SQL** (PostgreSQL-compatible)
 - Relational modeling with foreign key constraints
@@ -93,7 +93,7 @@ JOIN Ambulanciers ambr ON c.id_ambulancier = ambr.id_ambulancier;
 
 ---
 
-## 👤 Author
+## Author
 
 **Jad Essaifi** — B.Sc. Computer Science, Université de Montréal  
 [linkedin.com/in/jad-essaifi-28598a315](https://linkedin.com/in/jad-essaifi-28598a315)
