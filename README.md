@@ -41,6 +41,7 @@ ambulance-db/
 ├── sql/
 │   ├── schema.sql      # Table definitions and constraints
 │   └── queries.sql     # Analytical SQL queries
+│   └── Projet_IFT2935.sql
 └── data/
     ├── ambulance.csv
     ├── ambulanciers.csv
